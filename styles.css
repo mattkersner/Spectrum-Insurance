@@ -1,0 +1,16 @@
+.container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.carousel {
+  border: 1px solid black;
+}
+
+nav div .brand-logo {
+  font-size: 1.6em;
+}
+
+nav {
+  padding: 0 10px 0 10px;
+}
